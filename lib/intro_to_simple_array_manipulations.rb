@@ -1,3 +1,3 @@
 def using_push(my_array, element)
-array.push(element)
+my_array.push(element)
 end
