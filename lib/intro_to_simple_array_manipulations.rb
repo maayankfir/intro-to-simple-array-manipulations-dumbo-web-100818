@@ -9,3 +9,15 @@ end
 def using_pop(my_array)
   my_array.pop
 end
+
+def pop_with_args(my_array)
+  my_array.pop(2)
+end
+
+def using_shift(my_array)
+  my_array.shift
+end
+
+def shift_with_args(my_array)
+  my_array.shift(2)
+end
